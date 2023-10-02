@@ -17,4 +17,7 @@ Log result example:
 
 ![imagen](https://github.com/J-Rios/esp_can_sniffer/assets/12136967/5e3b59e7-4123-4fd3-9c45-69f19e0f52b7)
 
-Note: [SUSTerm](https://github.com/J-Rios/SUSTerm) used as Serial console.
+## Notes
+
+- ESP-32 [TWAI Documentation](https://docs.espressif.com/projects/esp-idf/en/v5.1.1/esp32/api-reference/peripherals/twai.html)
+- [SUSTerm](https://github.com/J-Rios/SUSTerm) used as Serial console.
